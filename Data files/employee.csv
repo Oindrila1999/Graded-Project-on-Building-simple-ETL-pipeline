@@ -1,0 +1,62 @@
+employee_id,name,department,hire_date,salary
+E001,Emily Johnson,Sales,1/15/2018,65000
+E002,Michael Smith,Marketing,3/22/2019,60000
+E003,Jessica Williams,Finance,6/10/2017,70000
+E004,David Brown,IT,8/5/2020,75000
+E005,Sarah Davis,Human Resources,11/30/2016,68000
+E006,Daniel Miller,Sales,2/15/2019,64000
+E007,Laura Wilson,Marketing,5/22/2018,59000
+E008,James Moore,Finance,7/10/2020,72000
+E009,Ashley Taylor,IT,9/5/2017,77000
+E010,Christopher Anderson,Human Resources,12/20/2015,69000
+E011,Amanda Thomas,Sales,4/18/2018,66000
+E012,Matthew Jackson,Marketing,6/25/2019,61000
+E013,Megan White,Finance,8/12/2017,73000
+E014,Joshua Harris,IT,10/1/2020,78000
+E015,Nicole Martin,Human Resources,1/15/2016,70000
+E016,Andrew Thompson,Sales,3/22/2019,65000
+E017,Stephanie Garcia,Marketing,6/10/2018,60000
+E018,Joseph Martinez,Finance,8/5/2017,71000
+E019,Victoria Robinson,IT,11/30/2020,76000
+E020,Brandon Clark,Human Resources,2/15/2016,69000
+E021,Rebecca Rodriguez,Sales,5/22/2019,64000
+E022,Brian Lewis,Marketing,7/10/2018,59000
+E023,Samantha Lee,Finance,9/5/2017,72000
+E024,Kevin Walker,IT,12/20/2020,77000
+E025,Rachel Hall,Human Resources,3/18/2016,68000
+E026,Justin Allen,Sales,6/25/2019,63000
+E027,Olivia Young,Marketing,8/12/2018,58000
+E028,Jason Hernandez,Finance,10/1/2017,71000
+E029,Melissa King,IT,1/15/2020,76000
+E030,Ryan Wright,Human Resources,4/22/2016,69000
+E031,Lauren Lopez,Sales,7/10/2019,64000
+E032,Nathan Hill,Marketing,9/5/2018,59000
+E033,Michelle Scott,Finance,11/20/2017,72000
+E034,Eric Green,IT,2/15/2020,77000
+E035,Heather Adams,Human Resources,5/18/2016,68000
+E036,Adam Baker,Sales,8/25/2019,65000
+E037,Amber Gonzalez,Marketing,10/12/2018,60000
+E038,Steven Nelson,Finance,12/1/2017,73000
+E039,Sara Carter,IT,3/15/2020,78000
+E040,Patrick Mitchell,Human Resources,6/22/2016,70000
+E041,Amy Perez,Sales,9/10/2019,65000
+E042,Benjamin Roberts,Marketing,11/5/2018,60000
+E043,Karen Turner,Finance,1/20/2017,71000
+E044,Alexander Phillips,IT,4/15/2020,76000
+E045,Angela Campbell,Human Resources,7/18/2016,69000
+E046,Jonathan Parker,Sales,10/25/2019,64000
+E047,Crystal Evans,Marketing,12/12/2018,59000
+E048,Mark Edwards,Finance,2/1/2017,72000
+E049,Christine Collins,IT,5/15/2020,77000
+E050,Paul Stewart,Human Resources,8/22/2016,68000
+E051,Laura Sanchez,Sales,11/10/2019,63000
+E052,Derek Morris,Marketing,1/5/2018,58000
+E053,Angela Rogers,Finance,3/20/2017,71000
+E054,Kyle Reed,IT,6/15/2020,76000
+E055,Julia Cook,Human Resources,9/18/2016,69000
+E056,Scott Morgan,Sales,12/25/2019,64000
+E057,Erica Bell,Marketing,2/12/2018,59000
+E058,Dylan Murphy,Finance,4/1/2017,72000
+E059,Karen Bailey,IT,7/15/2020,77000
+E060,Shawn Rivera,Human Resources,10/22/2016,68000
+E061,Chelsea Cooper,Sales,1/10/2019,65000
